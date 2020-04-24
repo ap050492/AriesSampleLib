@@ -1,0 +1,3 @@
+rootProject.name='AriesSDK'
+include ':app'
+include ':aries-sdk-android'
